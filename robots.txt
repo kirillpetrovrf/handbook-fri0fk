@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kirillpetrovrf.github.io/handbook-fri0fk/sitemap.xml
